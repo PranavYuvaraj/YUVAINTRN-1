@@ -1,0 +1,143 @@
+
+============================================================
+STEP 1: Load data
+============================================================
+shape: (515, 12)
+customer_id         int64
+age               float64
+gender                str
+city                  str
+education             str
+annual_income     float64
+spending_score    float64
+tenure_years      float64
+signup_date           str
+membership            str
+country               str
+churned               str
+dtype: object
+
+missing values per column:
+age               31
+city              15
+education         26
+annual_income     41
+spending_score    20
+dtype: int64
+
+summary stats:
+       customer_id     age  annual_income  spending_score  tenure_years
+count       515.00  484.00         474.00          495.00        515.00
+mean       1249.80   38.59       70084.81           46.97          4.98
+std         144.63   14.94      176763.63           19.38          2.92
+min        1001.00   -5.00        8000.00            1.00         -2.00
+25%        1123.50   31.00       48200.00           33.50          2.30
+50%        1250.00   38.00       59700.00           48.00          4.90
+75%        1373.50   45.00       69075.00           60.50          7.55
+max        1500.00  250.00     3100000.00          100.00         10.00
+
+============================================================
+STEP 2: Duplicate rows
+============================================================
+duplicate rows found: 9
+shape after dropping: (506, 12)
+
+============================================================
+STEP 3: Clean text columns
+============================================================
+gender values before: [' Female', 'F', 'Female', 'M', 'MALE ', 'Male', 'female', 'male']
+gender values after : ['Female', 'Male']
+city values before  : ['Bangalore', 'Chennai', 'Coimbatore', 'Delhi', 'Hyderabad', 'Mumbai', 'Salem', 'bangalore', 'chennai', 'coimbatore', 'delhi', 'hyderabad', 'mumbai', 'salem']
+city values after   : ['Bangalore', 'Chennai', 'Coimbatore', 'Delhi', 'Hyderabad', 'Mumbai', 'Salem']
+
+============================================================
+STEP 4: Fix date column
+============================================================
+unparsed dates: 0
+{2015: 55, 2016: 51, 2017: 62, 2018: 43, 2019: 61, 2020: 55, 2021: 63, 2022: 61, 2023: 48, 2024: 7}
+hidden duplicates found after fixing dates: 6
+shape now: (500, 13)
+
+============================================================
+STEP 5: Impossible values
+============================================================
+ages outside 18-100: 3 | negative tenure: 1
+bad ages: [140.0, -5.0, 250.0]
+
+============================================================
+STEP 6: Missing values
+============================================================
+before:
+ age               33
+city              15
+education         25
+annual_income     39
+spending_score    20
+tenure_years       1
+dtype: int64
+age: filled with median = 38.0
+annual_income: filled with median = 59700.0
+spending_score: filled with median = 48.0
+tenure_years: filled with median = 4.9
+education: filled with mode = Bachelors
+city: filled with mode = Bangalore
+
+missing after: 0
+
+============================================================
+STEP 7: Outliers in annual_income
+============================================================
+Q1=49000, Q3=68500, IQR=19500
+allowed range: 19750 to 97750  -> 5 outliers
+max income after capping: 97750.0
+
+============================================================
+STEP 8: Drop columns we don't need
+============================================================
+unique values in country: <StringArray>
+['India']
+Length: 1, dtype: str -> constant, no information
+dropped: country, customer_id, signup_date (replaced by signup_year)
+
+============================================================
+STEP 9: Encode categorical variables
+============================================================
+columns now: ['age', 'gender', 'education', 'annual_income', 'spending_score', 'tenure_years', 'membership', 'churned', 'signup_year', 'city_Bangalore', 'city_Chennai', 'city_Coimbatore', 'city_Delhi', 'city_Hyderabad', 'city_Mumbai', 'city_Salem']
+
+============================================================
+STEP 10: Normalization / scaling
+============================================================
+      age  annual_income  spending_score  tenure_years  signup_year
+mean -0.0           -0.0            -0.0           0.0         -0.0
+std   1.0            1.0             1.0           1.0          1.0
+
+min-max income range: 0.0 to 1.0
+
+============================================================
+STEP 11: Exploratory data analysis
+============================================================
+churn rate: 19.2 %
+
+churn rate by membership:
+membership
+Basic     0.172
+Silver    0.211
+Gold      0.191
+Name: churned, dtype: float64
+
+correlation with churned:
+spending_score   -0.224
+tenure_years     -0.148
+signup_year      -0.065
+annual_income    -0.059
+age              -0.046
+education        -0.025
+gender            0.021
+membership        0.021
+Name: churned, dtype: float64
+
+============================================================
+DONE
+============================================================
+final shape: (500, 16)
+saved: data/clean_customers.csv, data/clean_customers_scaled.csv, plots/

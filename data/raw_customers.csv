@@ -1,0 +1,516 @@
+customer_id,age,gender,city,education,annual_income,spending_score,tenure_years,signup_date,membership,country,churned
+1490,45.0,Female,Delhi,Masters,59700.0,36.0,7.1,2019-07-19,Basic,India,No
+1430,42.0, Female,Delhi,Masters,63700.0,52.0,6.5,2016-03-07,Silver,India,No
+1083,34.0,Male,Hyderabad,High School,52100.0,65.0,7.9,2020-11-04,Basic,India,Yes
+1121,27.0,female,Hyderabad,Bachelors,44000.0,52.0,0.7,2020-01-13,Basic,India,No
+1222,41.0,MALE ,Mumbai,,75400.0,48.0,7.5,18/03/2022,Silver,India,No
+1148,36.0,Female,Coimbatore,Bachelors,36600.0,1.0,0.9,2023-11-05,Silver,India,Yes
+1033,32.0,F,Coimbatore,Bachelors,48400.0,,6.9,14/07/2018,Silver,India,No
+1386,29.0, Female,Hyderabad,Bachelors,54600.0,61.0,7.0,2022-02-21,Silver,India,Yes
+1201,42.0,F,,PhD,76200.0,67.0,1.0,2019-11-11,Gold,India,No
+1482,54.0,Male,Chennai,Bachelors,55200.0,,1.1,2021-12-18,Basic,India,No
+1296,40.0,Male,Coimbatore,Masters,59500.0,21.0,7.7,2017-02-18,Silver,India,No
+1262,35.0,F,Mumbai,Masters,64100.0,84.0,0.9,2017-10-03,Silver,India,Yes
+1434,,M,Bangalore,High School,61000.0,67.0,7.2,2018-09-20,Silver,India,No
+1475,,F,Hyderabad,Masters,53500.0,62.0,7.5,26/09/2023,Silver,India,No
+1460,38.0, Female,Hyderabad,Masters,,57.0,4.3,2017-03-20,Silver,India,No
+1458,29.0,Female,hyderabad,High School,78000.0,28.0,6.5,2021-11-23,Gold,India,No
+1356,41.0,Male,Salem,Bachelors,62100.0,40.0,9.4,2020-12-13,Silver,India,No
+1467,35.0,female,hyderabad,High School,53400.0,36.0,9.6,18/05/2023,Basic,India,No
+1116,32.0, Female,coimbatore,Masters,38400.0,45.0,1.4,04/12/2022,Basic,India,No
+1404,34.0,MALE ,Bangalore,Masters,74700.0,50.0,9.4,2022-09-07,Silver,India,No
+1014,50.0,Female,Delhi,High School,69000.0,91.0,8.6,07/01/2019,Silver,India,No
+1275,55.0, Female,coimbatore,,74600.0,100.0,9.5,2020-02-21,Gold,India,No
+1309,44.0,male,bangalore,Masters,60800.0,44.0,5.6,2020-01-28,Gold,India,No
+1486,36.0,MALE ,Coimbatore,High School,65000.0,56.0,2.9,2020-11-28,Silver,India,No
+1337,,MALE ,Salem,Bachelors,49000.0,46.0,9.5,2017-10-14,Basic,India,No
+1498,34.0,male,Mumbai,High School,,53.0,5.5,2016-04-11,Silver,India,No
+1133,,Female,Delhi,Bachelors,60600.0,80.0,5.4,2022-10-04,Basic,India,No
+1376,64.0,Female,Bangalore,High School,59100.0,66.0,8.3,2017-02-23,Gold,India,No
+1260,23.0,female,Hyderabad,Masters,51000.0,66.0,3.5,2019-08-13,Basic,India,No
+1269,39.0,Male,Coimbatore,Bachelors,44700.0,24.0,2.6,2018-03-14,Basic,India,Yes
+1279,51.0,male,Coimbatore,Masters,71600.0,87.0,0.0,2017-08-03,Gold,India,No
+1497,, Female,coimbatore,Masters,50400.0,56.0,1.3,06/05/2021,Silver,India,No
+1302,140.0,MALE ,Chennai,Masters,30900.0,30.0,1.9,2015-05-15,Gold,India,No
+1147,31.0,Female,chennai,,60300.0,60.0,1.2,2023-01-21,Basic,India,No
+1026,34.0,M,Mumbai,Bachelors,50300.0,,9.5,2024-01-05,Silver,India,No
+1485,37.0,Male,Bangalore,High School,62800.0,61.0,2.0,10/07/2020,Basic,India,No
+1314,43.0, Female,mumbai,Bachelors,57700.0,,4.2,2018-06-12,Silver,India,No
+1247,26.0,female,Bangalore,Bachelors,70000.0,83.0,4.1,17/01/2017,Silver,India,No
+1347,31.0,MALE ,Hyderabad,Bachelors,91000.0,67.0,0.4,2016-11-26,Silver,India,No
+1223,40.0,female,Coimbatore,Masters,33600.0,27.0,8.2,2022-01-14,Basic,India,No
+1419,37.0,Male,hyderabad,Bachelors,74700.0,6.0,9.5,2015-10-26,Gold,India,Yes
+1052,45.0,MALE ,Salem,Bachelors,72200.0,25.0,7.6,2020-08-06,Basic,India,No
+1259,37.0,Male,chennai,Bachelors,66000.0,44.0,3.2,13/02/2021,Gold,India,No
+1428,57.0, Female,,High School,81300.0,27.0,1.8,2019-02-28,Basic,India,Yes
+1041,46.0,male,Delhi,Bachelors,,26.0,3.2,2015-03-26,Silver,India,Yes
+1090,43.0,male,Coimbatore,Bachelors,83000.0,61.0,4.2,2022-08-04,Gold,India,Yes
+1207,29.0,F,Hyderabad,,40200.0,31.0,3.2,2017-03-28,Basic,India,No
+1240,32.0,M,Chennai,Masters,26800.0,24.0,1.3,2016-06-23,Basic,India,Yes
+1483,39.0,F,delhi,Masters,,56.0,9.6,11/10/2020,Silver,India,No
+1239,26.0,female,Delhi,Bachelors,29000.0,9.0,5.8,2021-10-31,Silver,India,No
+1480,67.0,M,Coimbatore,Masters,,43.0,8.9,2019-12-23,Gold,India,No
+1311,51.0,M,coimbatore,Bachelors,68500.0,21.0,6.1,2023-03-05,Gold,India,No
+1004,48.0,F,Delhi,High School,50200.0,58.0,4.4,2015-08-04,Basic,India,No
+1180,41.0,F,Bangalore,High School,59900.0,47.0,2.7,2015-03-28,Basic,India,No
+1249,70.0,Male,Mumbai,Bachelors,83500.0,39.0,6.3,2020-09-01,Gold,India,No
+1293,54.0, Female,Hyderabad,Masters,79700.0,32.0,5.7,2022-04-08,Basic,India,No
+1066,47.0,female,Mumbai,High School,76200.0,52.0,0.1,2020-08-03,Silver,India,No
+1139,60.0,M,Bangalore,High School,86000.0,64.0,7.5,2020-08-31,Gold,India,No
+1437,32.0, Female,Chennai,Bachelors,,33.0,1.9,24/06/2018,Gold,India,No
+1304,34.0,MALE ,Hyderabad,High School,60200.0,41.0,8.8,2017-11-04,Basic,India,No
+1114,22.0, Female,Coimbatore,Bachelors,50200.0,42.0,4.9,02/12/2021,Basic,India,No
+1469,50.0,female,delhi,PhD,81100.0,58.0,4.3,2018-09-17,Basic,India,No
+1169,36.0,M,Mumbai,High School,51100.0,78.0,7.1,30/06/2023,Silver,India,No
+1102,52.0,Male,Salem,Masters,64900.0,59.0,4.6,2016-02-25,Silver,India,No
+1373,47.0,Female,Salem,Masters,76000.0,71.0,0.9,03/05/2018,Gold,India,Yes
+1214,33.0,MALE ,Mumbai,High School,54600.0,66.0,8.9,2016-08-18,Silver,India,No
+1406,35.0,female,Salem,Bachelors,81200.0,52.0,2.4,01/01/2024,Basic,India,No
+1341,,Male,Salem,Masters,64100.0,54.0,0.8,2021-08-06,Silver,India,No
+1461,41.0,F,Hyderabad,Bachelors,81300.0,43.0,6.4,2021-08-17,Gold,India,No
+1338,,MALE ,Delhi,Bachelors,79000.0,,4.0,2015-05-29,Basic,India,Yes
+1452,42.0,F,Salem,Masters,68200.0,41.0,9.8,18/09/2017,Gold,India,No
+1194,54.0,Female,Salem,High School,46600.0,41.0,9.4,2017-09-27,Basic,India,No
+1061,19.0,male,,Bachelors,41300.0,30.0,4.1,2020-04-29,Basic,India,Yes
+1417,50.0,M,Salem,High School,87200.0,74.0,6.2,2016-12-24,Silver,India,Yes
+1315,47.0,female,hyderabad,Masters,59800.0,68.0,1.2,2019-06-20,Silver,India,No
+1119,56.0,MALE ,bangalore,Bachelors,68000.0,56.0,1.5,2019-01-04,Gold,India,No
+1370,47.0,Female,Salem,High School,66700.0,59.0,1.9,2019-06-24,Basic,India,No
+1426,34.0,M,Delhi,High School,78200.0,41.0,7.7,2020-08-01,Silver,India,No
+1110,19.0,F,Chennai,High School,48600.0,39.0,4.2,2021-08-06,Gold,India,No
+1348,44.0,male,Salem,Masters,74800.0,74.0,5.3,04/10/2023,Gold,India,No
+1450,42.0,female,Chennai,Masters,19000.0,22.0,6.4,13/01/2016,Basic,India,No
+1362,42.0,male,Hyderabad,Bachelors,45500.0,40.0,5.3,2023-03-08,Silver,India,No
+1091,45.0,M,coimbatore,Masters,,17.0,5.5,2021-02-18,Silver,India,Yes
+1156,57.0,Female,Bangalore,Masters,80100.0,52.0,4.5,2020-04-26,Silver,India,No
+1264,32.0,M,hyderabad,Bachelors,61400.0,33.0,7.2,2016-08-18,Basic,India,No
+1307,34.0,F,Salem,Bachelors,54000.0,56.0,8.1,2021-02-07,Basic,India,No
+1031,62.0,MALE ,Chennai,Masters,76500.0,79.0,9.8,2016-10-31,Silver,India,No
+1023,,Male,Hyderabad,Bachelors,86900.0,88.0,2.0,2017-04-06,Basic,India,No
+1306,26.0,male,Chennai,Bachelors,61600.0,51.0,1.0,07/12/2022,Gold,India,Yes
+1032,34.0,male,Salem,Bachelors,44300.0,64.0,4.0,2016-02-19,Silver,India,No
+1238,36.0,Female,Coimbatore,Masters,67100.0,51.0,4.0,2022-11-27,Gold,India,No
+1327,,M,Coimbatore,,44300.0,56.0,3.8,2023-02-14,Silver,India,No
+1053,22.0,MALE ,Salem,Masters,48400.0,30.0,7.6,2019-01-04,Basic,India,No
+1491,50.0,male,Hyderabad,High School,,56.0,1.8,2016-01-13,Silver,India,No
+1165,47.0,Female,salem,High School,66300.0,56.0,7.3,02/09/2018,Basic,India,No
+1217,44.0,Male,Bangalore,Bachelors,45800.0,2.0,1.1,05/01/2018,Basic,India,No
+1163,61.0, Female,Bangalore,Masters,69100.0,24.0,6.6,2022-12-12,Silver,India,Yes
+1366,54.0,Female,Salem,High School,83600.0,75.0,4.5,2020-11-08,Gold,India,No
+1057,35.0,M,Delhi,Masters,47500.0,31.0,6.4,08/03/2015,Gold,India,Yes
+1471,42.0,Female,Mumbai,PhD,59400.0,59.0,5.1,11/04/2015,Silver,India,No
+1003,46.0, Female,Salem,High School,57800.0,29.0,4.1,2017-05-05,Basic,India,No
+1059,28.0,female,Bangalore,High School,35300.0,31.0,2.6,28/10/2021,Gold,India,No
+1372,53.0,male,Salem,Bachelors,60600.0,47.0,9.6,2020-11-30,Silver,India,No
+1241,28.0,F,Bangalore,Bachelors,62200.0,68.0,3.2,2019-06-14,Basic,India,No
+1268,42.0,Male,mumbai,PhD,56100.0,37.0,7.6,2017-01-23,Basic,India,No
+1500,22.0,Male,Hyderabad,Bachelors,54700.0,50.0,0.7,23/04/2018,Basic,India,No
+1075,40.0,Male,mumbai,Masters,63300.0,24.0,1.9,2015-02-28,Gold,India,No
+1331,55.0,F,,PhD,,73.0,5.2,2017-02-16,Gold,India,No
+1477,50.0,M,Salem,Bachelors,83300.0,57.0,2.0,2022-08-03,Gold,India,No
+1422,29.0,male,Chennai,Bachelors,40700.0,30.0,2.3,2015-03-04,Basic,India,No
+1278,26.0,Female,Bangalore,Masters,53200.0,24.0,5.8,2017-02-20,Silver,India,Yes
+1081,43.0,male,Chennai,Bachelors,34800.0,15.0,0.7,2023-07-05,Basic,India,No
+1243,19.0,Female,Coimbatore,Bachelors,29900.0,32.0,1.0,2020-11-04,Silver,India,Yes
+1027,44.0, Female,Bangalore,Bachelors,82100.0,13.0,6.1,2017-11-14,Silver,India,Yes
+1203,39.0,Male,hyderabad,High School,47700.0,87.0,4.2,2016-02-07,Silver,India,No
+1213,38.0,female,Bangalore,Masters,46800.0,48.0,2.1,2020-07-13,Basic,India,No
+1282,19.0,female,Salem,Bachelors,41100.0,17.0,5.6,2017-10-13,Gold,India,No
+1354,47.0,female,Salem,Bachelors,67700.0,48.0,9.0,30/06/2016,Gold,India,No
+1365,37.0, Female,Hyderabad,Bachelors,50000.0,20.0,4.0,2015-03-05,Basic,India,Yes
+1146,33.0,F,Hyderabad,Bachelors,,21.0,7.5,2020-12-16,Basic,India,No
+1421,39.0,F,Coimbatore,Masters,56300.0,1.0,0.9,11/01/2019,Silver,India,Yes
+1109,47.0,F,Bangalore,High School,47100.0,,8.2,2019-11-08,Silver,India,No
+1051,41.0,M,mumbai,,66500.0,50.0,7.4,06/01/2019,Basic,India,No
+1436,31.0,Female,Bangalore,Masters,60000.0,20.0,9.4,2016-09-11,Gold,India,No
+1301,57.0,M,hyderabad,High School,66200.0,48.0,8.6,2019-02-17,Basic,India,No
+1015,,F,Coimbatore,High School,73200.0,60.0,2.5,2016-07-29,Gold,India,Yes
+1465,26.0, Female,Mumbai,,48000.0,,6.6,2023-08-30,Basic,India,Yes
+1391,18.0,male,Salem,Masters,,40.0,3.9,25/07/2020,Silver,India,No
+1115,39.0,Male,Salem,Bachelors,50400.0,39.0,8.9,08/02/2019,Basic,India,No
+1244,22.0,Male,Coimbatore,Bachelors,22500.0,16.0,8.7,2015-06-22,Basic,India,Yes
+1060,49.0,Male,Mumbai,Bachelors,58400.0,25.0,5.9,02/08/2018,Silver,India,No
+1174,25.0,MALE ,Coimbatore,Bachelors,31700.0,41.0,2.6,2021-07-15,Silver,India,No
+1099,42.0,female,Mumbai,Masters,65700.0,41.0,7.3,2020-04-07,Basic,India,No
+1160,25.0,M,Coimbatore,Bachelors,43600.0,38.0,8.7,26/11/2018,Silver,India,No
+1250,25.0,MALE ,Bangalore,Masters,36800.0,51.0,9.3,2017-04-28,Basic,India,No
+1042,44.0,female,Hyderabad,Bachelors,54700.0,61.0,5.4,2019-09-14,Silver,India,No
+1271,30.0,Male,Salem,,72700.0,,9.3,2017-04-19,Basic,India,No
+1205,18.0,M,Chennai,High School,53800.0,51.0,1.3,2017-05-21,Silver,India,No
+1218,53.0,female,Bangalore,High School,80900.0,,1.2,2016-06-02,Silver,India,Yes
+1080,35.0,M,Chennai,Bachelors,60900.0,25.0,9.8,2023-04-26,Silver,India,Yes
+1029,43.0,Male,Bangalore,Masters,66800.0,51.0,6.3,2021-07-26,Gold,India,No
+1345,56.0,Male,coimbatore,Bachelors,77000.0,43.0,4.3,2018-03-28,Gold,India,No
+1364,26.0,M,Delhi,Bachelors,,52.0,5.7,2017-07-08,Silver,India,No
+1257,43.0,Female,Coimbatore,High School,52600.0,36.0,6.6,2017-08-14,Silver,India,No
+1466,33.0,M,Hyderabad,High School,38300.0,42.0,6.7,27/12/2021,Gold,India,No
+1058,54.0,male,Salem,Masters,61200.0,41.0,2.9,2022-09-17,Silver,India,Yes
+1427,47.0,Female,Bangalore,Masters,65300.0,72.0,5.4,2022-02-10,Basic,India,No
+1063,40.0,F,Coimbatore,Bachelors,61600.0,65.0,8.2,2023-03-10,Silver,India,No
+1388,44.0,Female,,PhD,59400.0,42.0,4.6,2017-03-07,Basic,India,No
+1112,41.0, Female,Coimbatore,Masters,64700.0,62.0,7.5,31/07/2023,Gold,India,No
+1085,25.0,female,Hyderabad,PhD,56100.0,,8.8,02/12/2017,Basic,India,No
+1237,18.0, Female,Hyderabad,Masters,50500.0,,3.8,2018-05-11,Silver,India,No
+1272,41.0,female,Coimbatore,Masters,78200.0,38.0,6.0,2018-06-05,Gold,India,No
+1343,39.0,Male,Bangalore,Bachelors,81100.0,57.0,8.7,26/11/2020,Gold,India,No
+1228,59.0,F,bangalore,Bachelors,87300.0,53.0,3.2,2017-06-20,Silver,India,Yes
+1130,28.0,Male,Coimbatore,Bachelors,21200.0,34.0,1.5,2023-01-24,Basic,India,No
+1166,28.0, Female,Delhi,Bachelors,29700.0,,5.7,17/08/2019,Basic,India,No
+1097,23.0,Female,Salem,PhD,39500.0,15.0,5.2,2022-03-11,Basic,India,Yes
+1489,29.0,female,Mumbai,Bachelors,47500.0,40.0,7.6,2019-07-14,Basic,India,No
+1297,41.0,Male,hyderabad,Bachelors,73800.0,58.0,5.0,18/10/2017,Basic,India,No
+1480,67.0,M,Coimbatore,Masters,,43.0,8.9,2019-12-23,Gold,India,No
+1142,27.0,male,Hyderabad,,57700.0,18.0,4.6,2017-03-12,Silver,India,Yes
+1464,18.0,F,Coimbatore,Bachelors,39900.0,35.0,3.5,2018-09-27,Silver,India,No
+1188,25.0, Female,Mumbai,High School,65500.0,44.0,8.9,2019-04-06,Gold,India,No
+1369,40.0,M,Salem,Bachelors,54000.0,66.0,3.1,2023-06-20,Basic,India,No
+1221,36.0,Female,Salem,Bachelors,56200.0,51.0,8.5,2021-02-23,Basic,India,No
+1229,29.0,MALE ,Salem,High School,37400.0,74.0,9.5,26/12/2021,Basic,India,No
+1323,51.0, Female,Chennai,Masters,57000.0,66.0,4.6,2020-02-23,Silver,India,No
+1396,40.0, Female,Salem,Masters,73600.0,76.0,9.3,2016-01-05,Silver,India,No
+1360,36.0,Female,Delhi,Bachelors,65400.0,62.0,8.3,2017-02-16,Silver,India,No
+1082,31.0,female,Salem,High School,39000.0,40.0,1.4,2015-12-02,Gold,India,No
+1355,,male,Mumbai,Bachelors,73300.0,70.0,0.5,2018-04-07,Silver,India,No
+1322,36.0, Female,Coimbatore,Masters,,70.0,5.2,2022-08-11,Gold,India,No
+1067,34.0,MALE ,Coimbatore,,53700.0,50.0,3.4,2021-02-22,Basic,India,No
+1435,48.0,MALE ,,High School,71900.0,70.0,1.7,2022-10-09,Gold,India,Yes
+1415,35.0,F,coimbatore,Masters,68300.0,,2.0,2015-03-20,Silver,India,No
+1189,23.0,F,Delhi,Bachelors,40200.0,62.0,6.5,2015-12-16,Gold,India,No
+1335,38.0,male,Bangalore,PhD,50200.0,42.0,3.4,2021-01-26,Basic,India,No
+1054,34.0,female,,Bachelors,80000.0,71.0,4.8,12/06/2023,Gold,India,No
+1172,43.0,Male,Delhi,High School,67000.0,58.0,6.0,2016-07-13,Gold,India,No
+1385,20.0,male,Delhi,Masters,,6.0,9.7,2022-11-06,Basic,India,No
+1140,,Female,bangalore,Masters,94300.0,74.0,5.0,2021-09-13,Basic,India,No
+1274,61.0,male,Mumbai,Bachelors,96100.0,53.0,0.5,08/09/2016,Gold,India,No
+1285,26.0,F,Coimbatore,High School,48500.0,71.0,8.5,27/03/2022,Basic,India,No
+1067,34.0,MALE ,Coimbatore,,53700.0,50.0,3.4,22/02/2021,Basic,India,No
+1439,31.0,Male,Bangalore,Bachelors,64200.0,76.0,5.0,2016-02-14,Silver,India,No
+1032,34.0,male,Salem,Bachelors,44300.0,64.0,4.0,2016-02-19,Silver,India,No
+1295,35.0,male,Mumbai,Bachelors,35100.0,56.0,1.6,2018-06-20,Silver,India,No
+1233,41.0,M,Delhi,Bachelors,68500.0,46.0,9.8,2019-12-22,Basic,India,No
+1100,,female,Mumbai,Bachelors,28900.0,,9.8,02/05/2022,Basic,India,No
+1284,43.0,female,Bangalore,High School,,38.0,7.4,24/02/2023,Gold,India,No
+1149,50.0,Male,Coimbatore,Bachelors,72000.0,69.0,1.8,26/12/2023,Gold,India,No
+1016,29.0,M,Coimbatore,High School,55200.0,49.0,6.7,28/04/2020,Basic,India,No
+1164,29.0,MALE ,Bangalore,Masters,47000.0,57.0,2.9,2016-01-28,Silver,India,No
+1290,37.0,MALE ,Bangalore,Bachelors,56500.0,61.0,3.3,2020-03-15,Basic,India,No
+1047,48.0,female,Coimbatore,Masters,70600.0,71.0,9.1,2022-01-29,Gold,India,No
+1087,33.0,MALE ,Hyderabad,High School,40600.0,,1.1,2022-11-29,Silver,India,No
+1038,29.0,Female,Hyderabad,Bachelors,,71.0,4.4,29/06/2023,Basic,India,No
+1423,31.0,female,Salem,Bachelors,54300.0,66.0,4.4,30/01/2021,Gold,India,No
+1371,38.0, Female,Salem,Bachelors,62500.0,55.0,2.9,2016-01-05,Basic,India,No
+1425,28.0,male,Salem,Bachelors,48200.0,18.0,3.8,2021-12-21,Silver,India,Yes
+1446,22.0,female,Chennai,High School,40500.0,18.0,4.2,05/12/2022,Basic,India,Yes
+1294,18.0,M,Mumbai,Bachelors,45900.0,49.0,2.7,27/06/2022,Gold,India,No
+1173,,female,Salem,Masters,46100.0,43.0,4.9,05/11/2018,Silver,India,Yes
+1074,43.0,male,Salem,,52900.0,60.0,10.0,2015-07-14,Silver,India,No
+1281,43.0,F,Chennai,Bachelors,63100.0,58.0,6.8,2023-09-09,Gold,India,Yes
+1105,28.0,Male,Bangalore,Masters,42600.0,22.0,6.7,2021-03-02,Silver,India,No
+1358,41.0,M,Coimbatore,Masters,67000.0,49.0,1.2,18/12/2023,Gold,India,No
+1254,27.0,F,Bangalore,Masters,73900.0,49.0,4.5,2019-10-31,Gold,India,No
+1017,42.0,Female,Bangalore,Masters,70800.0,66.0,1.3,2024-01-05,Silver,India,No
+1447,50.0,Male,Mumbai,Bachelors,74000.0,60.0,0.7,2023-10-22,Silver,India,No
+1092,37.0,male,Salem,Masters,61300.0,9.0,5.0,2015-08-21,Basic,India,Yes
+1089,,Male,Mumbai,High School,66500.0,41.0,1.8,2015-03-31,Gold,India,No
+1387,43.0,F,Hyderabad,Bachelors,78600.0,86.0,4.8,2021-06-08,Gold,India,No
+1141,43.0,Female,Mumbai,,,63.0,7.5,2021-06-01,Basic,India,No
+1195,26.0,female,Chennai,Bachelors,38500.0,55.0,0.6,2019-08-27,Silver,India,Yes
+1206,37.0,Female,Salem,High School,,23.0,8.6,2019-09-09,Silver,India,No
+1103,34.0,F,Chennai,Bachelors,70900.0,61.0,4.2,2015-02-28,Silver,India,No
+1265,43.0,MALE ,Salem,Masters,67800.0,56.0,3.9,2019-08-26,Gold,India,No
+1175,24.0, Female,Bangalore,Bachelors,56600.0,36.0,4.2,2021-08-07,Basic,India,No
+1171,,female,mumbai,Bachelors,,39.0,0.5,2016-11-25,Basic,India,No
+1389,41.0, Female,Coimbatore,Masters,31900.0,38.0,3.9,2018-08-09,Silver,India,Yes
+1158,49.0,M,Mumbai,,71200.0,66.0,8.8,2016-04-28,Silver,India,No
+1071,24.0,male,Hyderabad,Bachelors,29200.0,23.0,7.7,2023-01-17,Basic,India,No
+1134,36.0, Female,Bangalore,Masters,34200.0,44.0,8.2,2023-08-09,Silver,India,No
+1455,39.0,F,Bangalore,Masters,51600.0,82.0,4.8,2022-10-24,Basic,India,Yes
+1250,25.0,MALE ,Bangalore,Masters,36800.0,51.0,9.3,28/04/2017,Basic,India,No
+1379,56.0,male,chennai,Bachelors,74200.0,37.0,9.4,2018-10-30,Gold,India,No
+1363,49.0,Female,Delhi,Bachelors,68400.0,74.0,9.2,2023-05-05,Silver,India,No
+1246,24.0,female,coimbatore,Bachelors,57800.0,43.0,3.6,2021-09-16,Gold,India,No
+1470,27.0, Female,Salem,Bachelors,49700.0,32.0,8.1,17/08/2021,Silver,India,Yes
+1432,43.0,female,Mumbai,High School,69100.0,45.0,4.3,2018-08-04,Silver,India,No
+1353,32.0,male,Mumbai,High School,64700.0,33.0,3.0,2020-05-13,Basic,India,No
+1245,61.0,F,delhi,High School,81100.0,64.0,5.9,14/06/2021,Gold,India,No
+1019,48.0,Male,Bangalore,Masters,79000.0,25.0,1.4,2017-09-13,Gold,India,Yes
+1178,40.0,male,Hyderabad,High School,66000.0,56.0,5.6,2023-02-05,Basic,India,No
+1410,24.0,M,Chennai,High School,33700.0,48.0,2.0,2017-06-14,Basic,India,No
+1021,36.0,Male,Delhi,Bachelors,45800.0,47.0,6.7,30/05/2022,Silver,India,Yes
+1056,31.0,male,delhi,Bachelors,49200.0,17.0,2.4,12/02/2022,Basic,India,No
+1320,25.0, Female,Delhi,,33800.0,40.0,8.7,08/03/2015,Silver,India,No
+1462,29.0,F,Coimbatore,High School,52700.0,63.0,8.6,2015-10-07,Basic,India,No
+1368,29.0,male,Delhi,High School,46200.0,69.0,9.7,2015-05-14,Basic,India,No
+1035,,MALE ,Delhi,Masters,46700.0,55.0,4.0,2016-08-15,Basic,India,No
+1182,40.0,male,Chennai,High School,68500.0,73.0,3.1,2019-09-19,Gold,India,No
+1185,43.0,MALE ,Delhi,High School,58500.0,45.0,0.7,2017-09-14,Silver,India,No
+1151,36.0, Female,hyderabad,High School,79600.0,62.0,8.2,25/05/2020,Gold,India,No
+1208,25.0,male,bangalore,Bachelors,54200.0,50.0,3.6,26/11/2020,Silver,India,No
+1352,47.0,F,Salem,Bachelors,61400.0,52.0,7.1,14/05/2016,Basic,India,No
+1095,19.0,F,Chennai,PhD,26700.0,25.0,9.9,2023-08-18,Basic,India,No
+1377,36.0,MALE ,Delhi,High School,57300.0,39.0,9.8,03/11/2020,Basic,India,No
+1303,48.0,F,Bangalore,Masters,72300.0,54.0,5.9,2017-06-27,Basic,India,No
+1098,27.0,MALE ,Salem,Masters,59100.0,47.0,1.0,15/08/2019,Basic,India,No
+1236,,MALE ,Mumbai,Masters,54800.0,46.0,9.7,24/05/2018,Gold,India,No
+1405,44.0,F,Chennai,Bachelors,57100.0,30.0,9.8,2016-11-30,Silver,India,No
+1442,42.0, Female,coimbatore,High School,73400.0,57.0,4.4,2020-04-27,Gold,India,Yes
+1155,37.0,Male,Mumbai,High School,65300.0,41.0,6.5,2022-01-19,Basic,India,No
+1123,,F,Bangalore,Masters,64200.0,21.0,0.0,2024-01-13,Silver,India,No
+1339,51.0,Male,Coimbatore,Masters,92900.0,75.0,8.1,2021-05-14,Gold,India,No
+1079,45.0,Female,Bangalore,Bachelors,62500.0,52.0,9.3,30/01/2017,Gold,India,No
+1062,,Male,Salem,Bachelors,59600.0,,2.2,12/06/2022,Gold,India,No
+1476,34.0,MALE ,Chennai,Bachelors,43100.0,38.0,1.3,2021-02-26,Silver,India,No
+1126,,Male,Delhi,Bachelors,56400.0,59.0,0.3,2020-12-04,Basic,India,No
+1319,49.0,Female,chennai,Masters,72400.0,57.0,3.0,18/08/2021,Silver,India,No
+1317,39.0,male,Delhi,Masters,55300.0,13.0,8.4,28/07/2017,Silver,India,No
+1496,48.0,Female,Chennai,High School,72400.0,64.0,3.1,2022-10-27,Silver,India,No
+1431,27.0,M,Mumbai,High School,49400.0,24.0,6.7,2019-02-23,Basic,India,Yes
+1451,37.0,female,Mumbai,Masters,37600.0,7.0,0.5,2017-01-25,Silver,India,No
+1418,53.0,MALE ,mumbai,High School,79100.0,71.0,8.6,2022-09-26,Gold,India,No
+1025,33.0,MALE ,Bangalore,Bachelors,71500.0,22.0,7.0,2016-09-09,Gold,India,Yes
+1329,25.0,male,Delhi,Bachelors,62100.0,63.0,0.4,2017-12-23,Silver,India,No
+1440,43.0,Male,Bangalore,Bachelors,74100.0,34.0,5.2,2017-11-26,Silver,India,No
+1323,51.0, Female,Chennai,Masters,57000.0,66.0,4.6,2020-02-23,Silver,India,No
+1127,54.0,male,Coimbatore,Bachelors,68700.0,56.0,6.5,2020-04-18,Silver,India,No
+1424,22.0, Female,Delhi,High School,37900.0,33.0,9.5,2019-02-10,Silver,India,No
+1328,37.0,Male,Hyderabad,Masters,,71.0,6.2,2020-12-19,Silver,India,No
+1179,37.0,male,Bangalore,Bachelors,63000.0,60.0,3.9,2017-01-16,Silver,India,No
+1444,53.0,F,Mumbai,Masters,87100.0,53.0,4.9,2019-08-29,Gold,India,Yes
+1381,39.0,M,Delhi,PhD,62800.0,19.0,8.0,2019-01-19,Gold,India,No
+1224,26.0, Female,Bangalore,High School,30400.0,46.0,5.3,2021-09-29,Gold,India,No
+1359,29.0,Female,hyderabad,Bachelors,27900.0,46.0,0.6,2023-02-03,Gold,India,No
+1094,37.0,female,Mumbai,Bachelors,38500.0,22.0,6.5,2015-03-02,Basic,India,No
+1070,, Female,Mumbai,High School,59700.0,34.0,1.4,2016-10-27,Silver,India,No
+1037,37.0,male,Delhi,Bachelors,,52.0,6.1,23/12/2021,Basic,India,No
+1161,27.0,M,Delhi,Bachelors,29000.0,6.0,1.9,30/04/2015,Gold,India,Yes
+1012,47.0, Female,Delhi,High School,63700.0,15.0,2.0,2018-08-22,Gold,India,No
+1145,29.0,M,,Bachelors,47100.0,40.0,2.1,2023-05-30,Silver,India,No
+1361,36.0,F,Bangalore,High School,45600.0,31.0,1.6,2015-11-05,Silver,India,Yes
+1128,25.0,male,Bangalore,Bachelors,63900.0,66.0,8.2,2015-06-21,Silver,India,No
+1448,34.0, Female,Bangalore,Masters,20400.0,8.0,5.9,2016-02-07,Basic,India,Yes
+1010,29.0,MALE ,Mumbai,Bachelors,56700.0,45.0,0.2,2022-04-25,Silver,India,No
+1382,52.0,M,Coimbatore,Masters,83200.0,76.0,5.5,2019-02-24,Gold,India,No
+1177,55.0,F,Coimbatore,Bachelors,103100.0,45.0,8.3,2021-07-22,Gold,India,No
+1232,32.0,Female,Chennai,High School,,31.0,1.7,19/05/2020,Silver,India,No
+1211,48.0,Female,Hyderabad,Masters,3100000.0,89.0,2.6,2019-12-11,Silver,India,No
+1129,31.0,MALE ,Delhi,Masters,40400.0,62.0,1.7,2019-06-14,Basic,India,Yes
+1144,41.0,male,Mumbai,High School,64000.0,53.0,2.2,2019-11-24,Gold,India,No
+1242,37.0,female,bangalore,Bachelors,72600.0,33.0,1.9,2018-05-10,Gold,India,Yes
+1008,35.0,male,Bangalore,Masters,61700.0,,6.6,2020-04-30,Basic,India,No
+1299,19.0,Female,Mumbai,High School,54400.0,42.0,9.7,17/02/2018,Basic,India,No
+1255,35.0,male,Mumbai,,77900.0,76.0,5.7,2023-06-24,Gold,India,No
+1378,18.0,F,Hyderabad,Bachelors,38500.0,28.0,8.4,2022-06-27,Basic,India,Yes
+1342,41.0,MALE ,coimbatore,Bachelors,62300.0,56.0,6.5,2018-10-21,Silver,India,No
+1009,38.0,male,Chennai,Bachelors,52500.0,53.0,6.6,2019-09-06,Gold,India,No
+1157,39.0,Male,Salem,High School,49700.0,68.0,3.9,20/12/2018,Gold,India,No
+1028,42.0, Female,Delhi,Bachelors,64400.0,49.0,2.6,2018-03-01,Silver,India,No
+1267,40.0,male,Chennai,Bachelors,,38.0,5.6,2017-03-02,Basic,India,No
+1065,46.0, Female,Bangalore,Bachelors,77200.0,57.0,1.7,17/05/2015,Silver,India,No
+1256,47.0,Female,Chennai,Bachelors,80900.0,48.0,4.6,16/02/2015,Gold,India,No
+1325,58.0, Female,Mumbai,Masters,54900.0,43.0,1.6,2020-06-18,Basic,India,No
+1154,33.0,F,Mumbai,Bachelors,41500.0,38.0,1.4,2019-04-18,Gold,India,No
+1049,45.0,Male,Mumbai,Masters,74000.0,56.0,8.4,2017-07-15,Silver,India,No
+1209,28.0,male,Delhi,Bachelors,47500.0,2.0,0.6,2015-06-11,Basic,India,No
+1288,39.0,Male,Delhi,Bachelors,57700.0,6.0,0.1,2018-05-12,Silver,India,No
+1002,27.0,male,Coimbatore,Bachelors,60000.0,57.0,3.4,2015-10-06,Silver,India,Yes
+1270,38.0,male,Salem,,79400.0,42.0,8.3,2020-05-08,Silver,India,No
+1266,49.0,F,mumbai,Masters,,23.0,2.1,2020-07-17,Basic,India,No
+1334,27.0,Female,mumbai,Bachelors,44700.0,27.0,1.9,2016-05-06,Silver,India,No
+1341,,Male,Salem,Masters,64100.0,54.0,0.8,2021-08-06,Silver,India,No
+1096,22.0,Female,Delhi,High School,39700.0,15.0,10.0,24/03/2015,Basic,India,Yes
+1473,35.0, Female,Delhi,Bachelors,59200.0,49.0,4.6,2015-06-06,Gold,India,Yes
+1305,37.0,M,Hyderabad,High School,73700.0,50.0,3.7,2016-05-21,Basic,India,No
+1091,45.0,M,coimbatore,Masters,,17.0,5.5,2021-02-18,Silver,India,Yes
+1117,,female,mumbai,Masters,70500.0,52.0,8.8,2021-07-30,Gold,India,No
+1046,40.0,Female,Coimbatore,Bachelors,2400000.0,46.0,2.4,2017-05-03,Silver,India,No
+1162,30.0,female,Hyderabad,PhD,51800.0,53.0,2.2,2017-07-26,Silver,India,No
+1499,18.0,M,Hyderabad,PhD,42800.0,59.0,7.1,27/11/2015,Gold,India,No
+1118,38.0,F,Coimbatore,Masters,62100.0,51.0,1.0,2019-09-11,Silver,India,Yes
+1289,35.0,F,Chennai,High School,43500.0,24.0,7.9,28/09/2021,Silver,India,No
+1078,40.0, Female,,Bachelors,76000.0,65.0,6.2,04/08/2022,Gold,India,No
+1402,40.0,Female,Bangalore,Masters,62200.0,24.0,2.2,2019-09-29,Basic,India,Yes
+1064,44.0,MALE ,Chennai,Bachelors,55400.0,63.0,8.6,2019-12-23,Silver,India,No
+1459,42.0,Female,mumbai,High School,62800.0,40.0,7.8,10/11/2023,Silver,India,No
+1397,46.0,Female,Coimbatore,High School,58300.0,36.0,6.1,2021-11-29,Basic,India,No
+1231,22.0, Female,Coimbatore,High School,50200.0,47.0,8.1,07/03/2023,Silver,India,No
+1298,34.0,Male,hyderabad,Bachelors,68300.0,60.0,5.4,2017-09-05,Gold,India,No
+1187,40.0,F,Salem,High School,70500.0,38.0,2.1,2016-12-17,Silver,India,No
+1120,35.0,male,Delhi,Masters,73900.0,46.0,5.3,2022-07-09,Gold,India,No
+1200,36.0,Male,Delhi,PhD,55000.0,26.0,2.1,2020-04-04,Basic,India,No
+1351,42.0,male,Coimbatore,Bachelors,58500.0,13.0,0.4,2022-10-25,Silver,India,Yes
+1122,40.0,Male,Mumbai,Bachelors,61400.0,100.0,0.5,2016-08-26,Basic,India,Yes
+1479,38.0, Female,Chennai,Masters,42200.0,72.0,7.5,2023-12-24,Silver,India,No
+1443,42.0,female,Delhi,Masters,68700.0,34.0,9.9,2022-01-11,Gold,India,No
+1308,52.0,male,Delhi,Bachelors,56900.0,44.0,4.8,2023-03-29,Silver,India,No
+1472,,MALE ,Delhi,Masters,54300.0,52.0,7.4,16/01/2020,Basic,India,No
+1159,33.0,male,Bangalore,Masters,69300.0,49.0,9.8,2021-06-20,Gold,India,No
+1086,43.0,male,Mumbai,Bachelors,87700.0,87.0,6.6,2015-08-12,Gold,India,No
+1226,,F,Mumbai,Bachelors,79400.0,80.0,0.4,06/03/2015,Gold,India,No
+1263,41.0,MALE ,Salem,Bachelors,70800.0,97.0,1.7,2020-10-25,Gold,India,No
+1332,45.0,F,Bangalore,Masters,84200.0,79.0,2.1,08/01/2018,Gold,India,No
+1411,22.0,F,chennai,High School,35800.0,17.0,5.7,2015-02-23,Basic,India,No
+1077,33.0,female,Salem,Bachelors,,52.0,4.2,2018-05-29,Gold,India,No
+1398,41.0,M,Salem,High School,,26.0,0.4,2017-08-09,Silver,India,No
+1383,20.0,Male,Bangalore,PhD,29700.0,67.0,5.4,2022-12-27,Silver,India,No
+1088,-5.0,male,Salem,PhD,49200.0,55.0,8.3,2019-04-14,Basic,India,No
+1306,26.0,male,Chennai,Bachelors,61600.0,51.0,1.0,2022-12-07,Gold,India,Yes
+1183,33.0,Male,Salem,Bachelors,69700.0,62.0,5.6,2022-01-06,Gold,India,No
+1106,36.0,male,Salem,Bachelors,63900.0,52.0,3.5,2020-02-20,Silver,India,Yes
+1409,18.0,Male,Chennai,High School,42000.0,39.0,0.6,20/01/2015,Silver,India,No
+1050,39.0,male,Coimbatore,Bachelors,68100.0,80.0,9.8,2015-01-11,Gold,India,Yes
+1390,22.0,female,Bangalore,Masters,24400.0,1.0,3.6,23/10/2022,Basic,India,No
+1006,24.0,F,Coimbatore,Masters,40100.0,30.0,0.9,2015-09-05,Gold,India,No
+1018,27.0,Male,Chennai,Bachelors,41000.0,57.0,2.8,2019-10-26,Basic,India,No
+1235,,MALE ,Coimbatore,,,49.0,4.9,2019-04-17,Basic,India,No
+1413,31.0,M,Bangalore,High School,59600.0,53.0,5.4,2024-01-01,Basic,India,No
+1407,37.0,female,Salem,High School,55600.0,68.0,0.5,2021-09-27,Gold,India,No
+1107,28.0,male,Delhi,Bachelors,59400.0,71.0,7.9,2015-10-04,Gold,India,No
+1135,22.0, Female,Bangalore,High School,41100.0,60.0,0.9,2019-08-31,Silver,India,Yes
+1414,46.0,F,Bangalore,,,42.0,6.3,2019-04-30,Basic,India,No
+1227,66.0,male,delhi,,87800.0,40.0,4.0,2020-05-24,Basic,India,No
+1215,34.0,Female,bangalore,Bachelors,53100.0,44.0,9.3,2018-12-28,Silver,India,No
+1191,57.0, Female,Mumbai,High School,80100.0,73.0,8.9,15/08/2019,Gold,India,No
+1453,59.0,female,Salem,Bachelors,83800.0,47.0,4.7,2020-11-02,Gold,India,No
+1321,47.0,male,Salem,Bachelors,,43.0,0.2,2016-03-08,Silver,India,No
+1283,48.0,male,chennai,Bachelors,89800.0,70.0,0.3,09/04/2022,Gold,India,No
+1030,43.0,female,Mumbai,Masters,82500.0,55.0,3.2,2015-02-10,Basic,India,No
+1170,38.0,Female,Hyderabad,Bachelors,28400.0,56.0,0.3,2020-05-02,Gold,India,No
+1181,52.0,MALE ,Bangalore,PhD,81600.0,33.0,5.2,2023-08-31,Gold,India,No
+1101,34.0,M,Delhi,High School,61800.0,60.0,3.2,2023-02-01,Silver,India,Yes
+1198,34.0,M,Salem,Bachelors,44000.0,17.0,2.0,2021-07-04,Silver,India,No
+1210,34.0,F,Chennai,High School,63400.0,57.0,3.6,2018-03-31,Basic,India,Yes
+1136,27.0,male,Bangalore,Bachelors,45900.0,21.0,3.9,2017-11-01,Basic,India,No
+1484,44.0,male,Salem,Masters,73400.0,86.0,1.5,2017-11-12,Basic,India,No
+1441,36.0,F,Bangalore,PhD,59900.0,80.0,5.1,2021-10-17,Basic,India,No
+1199,38.0,M,Delhi,PhD,48200.0,35.0,6.8,30/04/2016,Basic,India,No
+1374,47.0, Female,Coimbatore,Bachelors,68100.0,48.0,8.7,2019-11-05,Silver,India,No
+1167,48.0,Male,Bangalore,PhD,48800.0,25.0,5.5,2015-10-04,Silver,India,Yes
+1395,46.0,M,Delhi,Masters,62700.0,62.0,4.5,2016-08-11,Basic,India,Yes
+1137,41.0,F,Hyderabad,Bachelors,59600.0,36.0,7.4,27/04/2021,Silver,India,No
+1286,33.0,Female,,,57700.0,64.0,5.0,2022-07-06,Basic,India,No
+1336,25.0,F,Hyderabad,High School,36800.0,52.0,1.0,2020-04-11,Gold,India,No
+1132,23.0,M,Chennai,Masters,76300.0,17.0,8.2,2021-04-01,Gold,India,Yes
+1040,45.0,male,Delhi,Bachelors,56100.0,85.0,8.5,2020-09-01,Gold,India,No
+1216,49.0,MALE ,Mumbai,High School,54500.0,37.0,1.0,2021-11-01,Silver,India,No
+1044,41.0, Female,Delhi,Bachelors,59700.0,34.0,6.3,2022-03-18,Silver,India,No
+1055,33.0,female,,PhD,53700.0,55.0,4.6,2022-05-08,Silver,India,No
+1488,43.0,Male,Bangalore,Masters,67700.0,55.0,8.8,2019-05-08,Basic,India,No
+1300,42.0,F,mumbai,High School,63300.0,19.0,9.6,22/09/2017,Gold,India,No
+1468,59.0,M,Salem,Bachelors,69200.0,51.0,3.7,2022-09-07,Basic,India,No
+1305,37.0,M,Hyderabad,High School,73700.0,50.0,3.7,2016-05-21,Basic,India,No
+1036,50.0,male,Coimbatore,,,70.0,8.8,2018-02-10,Basic,India,No
+1316,35.0,female,Chennai,High School,60200.0,16.0,7.9,03/06/2019,Basic,India,No
+1400,30.0,male,Delhi,Bachelors,,32.0,2.1,2019-10-27,Silver,India,Yes
+1310,57.0,female,Salem,Masters,78900.0,62.0,9.8,2015-12-28,Gold,India,No
+1277,30.0,F,mumbai,Bachelors,38900.0,41.0,9.2,2016-04-15,Silver,India,No
+1125,47.0,female,Chennai,Bachelors,73000.0,44.0,7.7,12/04/2021,Silver,India,No
+1143,18.0,Male,Mumbai,Bachelors,65800.0,71.0,3.7,2021-10-30,Silver,India,No
+1111,43.0,male,Delhi,High School,51300.0,71.0,3.2,2018-02-07,Silver,India,No
+1324,46.0, Female,,,41000.0,49.0,6.9,2023-10-19,Silver,India,No
+1333,30.0,M,Hyderabad,Masters,38500.0,68.0,1.4,2021-02-22,Silver,India,No
+1394,43.0, Female,bangalore,,64200.0,25.0,7.8,2022-01-04,Basic,India,Yes
+1474,40.0,Male,Hyderabad,Masters,68400.0,47.0,2.2,2021-07-17,Gold,India,No
+1108,,Male,Chennai,,61000.0,74.0,8.3,12/02/2017,Basic,India,No
+1456,40.0,Male,Mumbai,Bachelors,77400.0,61.0,0.6,2017-09-12,Silver,India,No
+1013,250.0,male,Mumbai,Bachelors,61300.0,51.0,7.8,2016-11-13,Basic,India,No
+1273,37.0,female,mumbai,High School,61400.0,67.0,6.7,2019-11-29,Basic,India,No
+1048,40.0,F,bangalore,High School,48900.0,49.0,9.2,29/05/2022,Silver,India,No
+1204,45.0,F,,Bachelors,64800.0,22.0,1.8,13/11/2021,Silver,India,No
+1478,25.0,female,Salem,Masters,42600.0,43.0,6.3,2017-02-12,Basic,India,No
+1120,35.0,male,Delhi,Masters,73900.0,46.0,5.3,2022-07-09,Gold,India,No
+1022,31.0,F,Coimbatore,High School,42200.0,29.0,9.1,2019-04-06,Silver,India,No
+1403,47.0,female,Delhi,Bachelors,65500.0,62.0,5.2,2022-11-02,Basic,India,No
+1084,34.0,Male,Salem,High School,42700.0,2.0,2.7,2023-06-29,Silver,India,Yes
+1131,34.0,male,Salem,High School,74900.0,,-2.0,2017-03-01,Gold,India,No
+1457,50.0,male,Bangalore,Masters,64200.0,57.0,8.2,2020-07-29,Basic,India,No
+1494,43.0,MALE ,Coimbatore,High School,79500.0,46.0,1.5,07/01/2021,Gold,India,Yes
+1330,32.0,Female,chennai,Bachelors,,15.0,4.6,2019-10-09,Silver,India,Yes
+1230,35.0, Female,Mumbai,Masters,43100.0,62.0,5.8,2019-03-26,Basic,India,No
+1311,51.0,M,coimbatore,Bachelors,68500.0,21.0,6.1,05/03/2023,Gold,India,No
+1287,41.0,M,Salem,Bachelors,62400.0,54.0,4.7,2015-11-27,Basic,India,No
+1124,53.0,MALE ,Chennai,Bachelors,65300.0,59.0,4.4,2015-08-14,Silver,India,No
+1034,29.0,MALE ,Delhi,High School,56500.0,10.0,0.2,2020-01-01,Basic,India,No
+1486,36.0,MALE ,Coimbatore,High School,65000.0,56.0,2.9,2020-11-28,Silver,India,No
+1005,18.0,female,Delhi,Bachelors,8000.0,2.0,1.3,06/10/2016,Silver,India,No
+1412,18.0,Female,Salem,Masters,46000.0,44.0,9.1,2018-03-26,Silver,India,No
+1020,37.0,male,Salem,Masters,77800.0,30.0,2.8,2021-03-20,Gold,India,Yes
+1220,30.0,female,Coimbatore,Bachelors,39700.0,22.0,1.2,2022-01-12,Silver,India,No
+1380,33.0,F,Salem,Bachelors,,29.0,1.3,2023-10-07,Silver,India,No
+1169,36.0,M,Mumbai,High School,51100.0,78.0,7.1,2023-06-30,Silver,India,No
+1420,53.0,F,bangalore,High School,50100.0,67.0,3.5,2021-12-17,Basic,India,Yes
+1357,41.0,male,Salem,High School,65900.0,58.0,8.4,11/01/2024,Basic,India,No
+1150,40.0,male,Hyderabad,High School,56300.0,22.0,1.8,2021-09-23,Basic,India,Yes
+1225,39.0,M,,Bachelors,49000.0,21.0,10.0,2019-08-09,Basic,India,Yes
+1248,58.0,MALE ,Hyderabad,Masters,83400.0,72.0,4.3,2016-05-12,Basic,India,Yes
+1454,61.0,F,Delhi,Bachelors,,38.0,9.0,2018-11-24,Basic,India,No
+1152,27.0,male,Hyderabad,High School,47200.0,42.0,4.0,2016-01-25,Basic,India,No
+1493,35.0, Female,,Bachelors,78000.0,46.0,4.8,2015-03-09,Basic,India,No
+1318,30.0,MALE ,chennai,Masters,54900.0,53.0,2.8,2020-01-05,Basic,India,No
+1292,40.0,female,Chennai,Bachelors,46000.0,63.0,3.7,2020-02-16,Silver,India,Yes
+1234,51.0,female,Bangalore,Masters,68600.0,57.0,5.0,2023-04-22,Basic,India,No
+1011,48.0,Male,Hyderabad,High School,49500.0,54.0,3.3,17/09/2018,Silver,India,No
+1280,41.0,F,Chennai,High School,46300.0,64.0,0.4,09/04/2015,Basic,India,No
+1072,26.0, Female,Mumbai,High School,47600.0,23.0,1.2,2019-12-24,Silver,India,No
+1253,,MALE ,mumbai,High School,64100.0,59.0,3.3,2023-08-18,Basic,India,No
+1093,33.0,MALE ,Coimbatore,Masters,,76.0,6.9,2017-05-03,Silver,India,No
+1492,42.0, Female,Coimbatore,Bachelors,80600.0,65.0,3.6,25/10/2015,Silver,India,Yes
+1350,54.0,F,Salem,,85200.0,40.0,9.6,2016-07-31,Gold,India,No
+1416,40.0,female,Coimbatore,Masters,74900.0,44.0,8.0,2019-06-18,Basic,India,No
+1375,44.0,Male,Hyderabad,Bachelors,41900.0,45.0,7.1,2023-02-14,Basic,India,No
+1401,36.0,Male,Hyderabad,High School,62100.0,41.0,9.8,2024-01-06,Silver,India,No
+1193,34.0,F,Delhi,Bachelors,67000.0,59.0,4.8,2019-07-16,Gold,India,Yes
+1258,34.0,MALE ,Mumbai,Bachelors,65900.0,42.0,5.5,2015-01-08,Gold,India,No
+1495,35.0,female,Delhi,Masters,55200.0,24.0,2.7,2018-10-14,Silver,India,Yes
+1340,45.0,female,Salem,Masters,61500.0,,9.7,2022-06-13,Silver,India,No
+1068,33.0, Female,Delhi,Bachelors,46900.0,29.0,8.0,2015-07-14,Silver,India,No
+1196,28.0,F,Bangalore,High School,40800.0,31.0,2.2,2016-05-24,Basic,India,Yes
+1344,43.0, Female,Salem,Bachelors,62600.0,79.0,6.3,30/09/2018,Gold,India,Yes
+1138,47.0, Female,Bangalore,Masters,53900.0,50.0,2.6,2019-05-24,Silver,India,No
+1261,35.0,male,Coimbatore,Masters,71500.0,68.0,3.8,07/08/2017,Basic,India,No
+1039,29.0,male,Mumbai,Masters,22400.0,10.0,9.4,2015-02-17,Silver,India,No
+1463,21.0, Female,Mumbai,High School,31900.0,14.0,6.3,2019-11-29,Basic,India,Yes
+1202,53.0,M,Bangalore,Bachelors,69800.0,47.0,2.1,2016-10-25,Gold,India,No
+1481,40.0,Male,Hyderabad,PhD,66600.0,68.0,2.7,2021-02-03,Basic,India,No
+1291,35.0,M,Salem,Bachelors,47500.0,66.0,8.8,2015-01-19,Silver,India,No
+1449,50.0,male,Salem,Bachelors,74600.0,19.0,2.3,2020-05-04,Gold,India,Yes
+1190,56.0,male,hyderabad,Masters,70300.0,45.0,1.7,2022-08-10,Silver,India,No
+1252,42.0,MALE ,Mumbai,Masters,59200.0,40.0,3.9,2022-01-02,Silver,India,No
+1113,31.0,F,Delhi,Masters,35800.0,42.0,8.0,2023-12-19,Basic,India,No
+1438,26.0, Female,coimbatore,High School,47300.0,29.0,1.1,2021-10-31,Silver,India,Yes
+1184,50.0, Female,Coimbatore,High School,63700.0,40.0,6.8,2017-11-22,Basic,India,No
+1153,20.0,female,Delhi,High School,63000.0,73.0,9.9,2018-06-28,Basic,India,No
+1313,57.0,M,Bangalore,Bachelors,79300.0,61.0,3.7,08/03/2021,Gold,India,No
+1326,46.0,Male,Hyderabad,Bachelors,66700.0,16.0,6.7,2020-11-26,Basic,India,No
+1192,36.0, Female,Chennai,Bachelors,54500.0,38.0,4.7,2023-04-09,Basic,India,No
+1045,39.0,F,Chennai,Bachelors,57100.0,76.0,3.3,2017-02-06,Basic,India,No
+1445,34.0,MALE ,Mumbai,High School,59100.0,36.0,4.8,2022-10-06,Silver,India,No
+1276,42.0, Female,Hyderabad,Masters,65200.0,45.0,3.9,2016-03-31,Silver,India,No
+1007,39.0,Female,Delhi,Bachelors,89100.0,55.0,6.7,2021-11-20,Gold,India,No
+1251,34.0,female,Bangalore,Bachelors,,35.0,9.3,2023-07-05,Silver,India,No
+1312,43.0,male,mumbai,Masters,56800.0,58.0,4.2,20/02/2019,Basic,India,No
+1076,46.0, Female,bangalore,Bachelors,48900.0,45.0,1.5,2021-09-12,Silver,India,Yes
+1001,,male,Mumbai,High School,78300.0,,6.5,12/10/2016,Gold,India,No
+1429,23.0,F,Hyderabad,PhD,42900.0,62.0,3.2,2015-01-27,Silver,India,No
+1392,39.0, Female,Coimbatore,High School,53400.0,28.0,0.9,2017-07-13,Basic,India,Yes
+1384,24.0,F,Coimbatore,Bachelors,,62.0,9.0,2020-09-29,Gold,India,No
+1433,37.0,female,Delhi,Bachelors,72300.0,39.0,2.3,06/03/2022,Silver,India,No
+1069,47.0,female,Bangalore,Masters,73900.0,37.0,8.4,21/05/2022,Gold,India,No
+1487,29.0,Male,Mumbai,Bachelors,34200.0,27.0,5.3,30/09/2022,Basic,India,No
+1168,42.0,Male,Salem,Masters,68600.0,53.0,8.3,30/06/2016,Gold,India,Yes
+1393,33.0,MALE ,Bangalore,Masters,49800.0,49.0,0.8,2017-12-16,Silver,India,No
+1219,36.0,male,Delhi,High School,53200.0,45.0,6.2,2022-08-29,Gold,India,No
+1043,31.0, Female,Hyderabad,Bachelors,55900.0,18.0,4.9,2022-12-12,Silver,India,No
+1367,30.0,Male,Bangalore,Masters,35900.0,19.0,0.6,2015-09-09,Silver,India,Yes
+1346,18.0,Male,Coimbatore,High School,45600.0,33.0,4.3,2017-12-15,Basic,India,No
+1073,28.0,female,Chennai,Masters,53300.0,50.0,3.9,29/11/2017,Basic,India,No
+1024,36.0,MALE ,delhi,High School,55100.0,42.0,5.4,2021-06-13,Gold,India,Yes
+1399,44.0,female,salem,High School,,17.0,1.6,2021-11-30,Gold,India,Yes
+1186,55.0,female,Hyderabad,High School,68800.0,28.0,0.0,2017-01-12,Gold,India,No
+1349,21.0,female,Coimbatore,Masters,35400.0,11.0,9.9,2021-01-07,Basic,India,No
+1104,46.0,female,Mumbai,Bachelors,58900.0,79.0,0.5,16/02/2016,Silver,India,No
+1408,47.0,F,Delhi,Masters,,57.0,1.5,2015-12-20,Silver,India,Yes
+1212,23.0,Female,Salem,Bachelors,54100.0,39.0,6.1,2018-12-20,Silver,India,No
+1068,33.0, Female,Delhi,Bachelors,46900.0,29.0,8.0,2015-07-14,Silver,India,No
+1048,40.0,F,bangalore,High School,48900.0,49.0,9.2,2022-05-29,Silver,India,No
+1197,,female,Bangalore,High School,37700.0,11.0,5.9,2022-06-12,Gold,India,Yes
+1176,40.0,Female,Hyderabad,High School,65200.0,52.0,7.6,2016-10-06,Gold,India,No
